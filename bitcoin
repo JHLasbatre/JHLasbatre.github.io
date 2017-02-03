@@ -48,7 +48,10 @@ footer {background: #aaa;color:white;}
 
 <nav class="nav">
 <ul>
-<li><a href = "bitcoin.html"> bitcoin </a></li>
+  <li><a href="http://bitcoin.mubiz.com/info">info</a></li>
+  <li><a href="http://bitcoin.mubiz.com/blockchaininfo">blockchaininfo</a></li>
+  <li><a href="http://bitcoin.mubiz.com/mininginfo">mining info</a></li>
+  <li><a href="http://bitcoin.mubiz.com/peerinfo">peerinfo </a></li>
 </ul>
 </nav>
 
